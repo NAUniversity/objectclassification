@@ -38,3 +38,5 @@ print 'number:' , nr_objects
 pylab.imshow(labeled)
 pylab.jet()
 pylab.show()
+
+//edited
